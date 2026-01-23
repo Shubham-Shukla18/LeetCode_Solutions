@@ -9,4 +9,12 @@
 | [1148-article-views-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
