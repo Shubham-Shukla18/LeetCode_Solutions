@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
