@@ -47,9 +47,14 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
