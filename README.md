@@ -60,6 +60,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +77,16 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Hash Table
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
