@@ -65,6 +65,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3637-trionic-array-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
 ## Greedy
 |  |
 | ------- |
