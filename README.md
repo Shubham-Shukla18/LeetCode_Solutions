@@ -66,6 +66,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -93,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [3640-trionic-array-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3640-trionic-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
