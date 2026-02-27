@@ -59,6 +59,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [3640-trionic-array-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3640-trionic-array-ii) |
 ## Divide and Conquer
 |  |
