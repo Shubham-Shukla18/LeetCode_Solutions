@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
@@ -78,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
