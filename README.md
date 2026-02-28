@@ -63,6 +63,7 @@
 | [0392-is-subsequence](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -88,6 +89,7 @@
 | [0605-can-place-flowers](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -114,6 +117,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
