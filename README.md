@@ -75,6 +75,7 @@
 | [0696-count-binary-substrings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
