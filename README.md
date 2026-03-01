@@ -90,6 +90,7 @@
 | [0605-can-place-flowers](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0761-special-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
