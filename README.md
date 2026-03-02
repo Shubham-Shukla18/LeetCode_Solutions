@@ -96,6 +96,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
