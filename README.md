@@ -99,6 +99,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3637-trionic-array-i) |
@@ -132,6 +133,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sliding Window
 |  |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
