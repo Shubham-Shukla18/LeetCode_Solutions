@@ -92,6 +92,7 @@
 | [0605-can-place-flowers](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -175,10 +176,12 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
