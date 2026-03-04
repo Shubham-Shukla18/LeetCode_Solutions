@@ -221,18 +221,22 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
