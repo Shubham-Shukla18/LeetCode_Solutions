@@ -61,4 +61,67 @@ class Solution {
         }
         return -1.0;
     }
+
+    //BFS
+    /*
+    public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
+        //Build the graph: Map of (Node -> Map of (neighbor -> weight))
+        Map<String, Map<String, Double>> graph = new HashMap<>();
+        for(int i = 0; i < equations.size(); i++) {
+            String u = equations.get(i).get(0);
+            String v = equations.get(i).get(1);
+            double val = values[i];
+
+            graph.computeIfAbsent(u, k -> new HashMap<>()).put(v, val);
+            graph.computeIfAbsent(v, k -> new HashMap<>()).put(u, 1.0/val);
+        }
+
+        double[] results = new double[queries.size()];
+        for(int i = 0; i < queries.size(); i++) {
+            results[i] = bfs(queries.get(i).get(0), queries.get(i).get(1), graph);
+        }
+        return results;
+    }
+
+    private double bfs(String start, String target, Map<String, Map<String, Double>> graph) {
+        if(!graph.containsKey(start) || !graph.containsKey(target)) {
+            return -1.0;
+        }
+        if(start.equals(target)) {
+            return 1.0;
+        }
+
+        Queue<Pair<String, Double>> queue = new LinkedList<>();
+        queue.offer(new Pair<>(start, 1.0));
+        Set<String> visited = new HashSet<>();
+        visited.add(start);
+
+        while(!queue.isEmpty()) {
+            Pair<String, Double> current = queue.poll();
+            String currNode = current.node;
+            double currWeight = current.weight;
+
+            if(currNode.equals(target)) {
+                return currWeight;
+            }
+
+            for(Map.Entry<String, Double> neighbor : graph.get(currNode).entrySet()) {
+                if(!visited.contains(neighbor.getKey())) {
+                    visited.add(neighbor.getKey());
+                    queue.offer(new Pair<>(neighbor.getKey(), currWeight * neighbor.getValue()));
+                }
+            }
+        }
+        return -1.0;
+    }
+
+    private static class Pair<K, V> {
+        K node;
+        V weight;
+        Pair(K node, V weight) {
+            this.node = node;
+            this.weight = weight;
+        }
+    }
+    */
 }
