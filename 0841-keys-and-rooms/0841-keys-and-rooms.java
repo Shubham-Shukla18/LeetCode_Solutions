@@ -12,6 +12,35 @@ class Solution {
         }));
     }
 
+    // DFS
+    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+        int numberOfRooms = rooms.size();
+        boolean[] visited = new boolean[numberOfRooms];
+
+        // start traversal from 0
+        dfs(0, rooms, visited);
+
+        for(boolean wasVisited : visited) {
+            if(!wasVisited) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public void dfs(int currRoom, List<List<Integer>> rooms, boolean[] visited) {
+        //mark current room as visited
+        visited[currRoom] = true;
+
+        for(int key : rooms.get(currRoom)) {
+            if(!visited[key]) {
+                dfs(key, rooms, visited);
+            }
+        }
+    }
+
+    // BFS
+    /*
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n = rooms.size();
         boolean[] visited = new boolean[n];
@@ -41,4 +70,5 @@ class Solution {
 
         return visitedCount==n;
     }
+    */
 }
