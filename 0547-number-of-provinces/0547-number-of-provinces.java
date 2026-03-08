@@ -10,6 +10,7 @@ class Solution {
         }));
     }
 
+    // DFS
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
         boolean[] visited = new boolean[n];
@@ -35,5 +36,40 @@ class Solution {
             }
         }
     }
+    
 
+    //BFS
+    /*
+    public int findCircleNum(int[][] isConnected) {
+        int numberOfCities = isConnected.length;
+        boolean[] visited = new boolean[numberOfCities];
+        int provinceCount = 0;
+
+        for(int i = 0; i < numberOfCities; i++) {
+            if(!visited[i]){
+                provinceCount++;
+                bfs(i, isConnected, visited);
+            }
+        }
+
+        return provinceCount;
+    }
+
+    private void bfs(int startCity, int[][] isConnected, boolean[] visited) {
+        Queue<Integer> queue = new LinkedList<>();
+        queue.add(startCity);
+        visited[startCity] =  true;
+
+        while(!queue.isEmpty()) {
+            int currentCity = queue.poll();
+
+            for(int neighbor = 0; neighbor < isConnected.length; neighbor++) {
+                if(isConnected[currentCity][neighbor] == 1 && !visited[neighbor]) {
+                    visited[neighbor] = true;
+                    queue.add(neighbor);
+                }
+            }
+        }
+    }
+    */
 }
