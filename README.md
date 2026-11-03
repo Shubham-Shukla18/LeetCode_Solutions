@@ -106,6 +106,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -180,6 +181,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -258,6 +260,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Shubham-Shukla18/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
